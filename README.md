@@ -1,1 +1,1 @@
-# image-upload-with-php-and-ajax
+# Image Uploading with PHP and AJAX
