@@ -69,9 +69,5 @@
         xhr.send(formData);
     }
     
-    window.onbeforeunload = function(e) {
-        e.prevenDefault();
-        return false;
-    };
     
 }) ();
