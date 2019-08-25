@@ -1,0 +1,23 @@
+#upload-container {
+    min-height: 256px;
+    background: #fad390;
+    padding-top: 80px;
+}
+
+#upload-container label {
+    display: block;
+    margin-bottom: 1em;
+}
+
+#upload-container label,
+#upload-container div {
+    text-align: center;
+}
+
+#file-input {
+    display: none;
+}
+
+.dragover {
+    box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
